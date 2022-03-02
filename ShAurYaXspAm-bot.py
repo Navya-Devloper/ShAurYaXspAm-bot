@@ -980,11 +980,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             bc = yukki[0]
-            text = "𝐉𝐀 𝐑𝐇𝐀 𝐁𝐇𝐀𝐈𝐌𝐘𝐀🙂..."
+            text = "✿.｡.:*𝗝𝗼𝗶𝗻𝗶𝗻𝗴...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐂𝐇𝐀𝐋𝐀 𝐆𝐘𝐀 𝐁𝐇𝐀𝐌𝐈𝐘𝐀🙂")
+                await event.edit("✿.｡.:*𝗝𝗼𝗶𝗻𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1026,11 +1026,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "𝐉𝐀 𝐑𝐇𝐀 𝐁𝐇𝐀𝐈𝐌𝐘𝐀🙂...."
+            text = "×º°”˜𝗝𝗼𝗶𝗻𝗶𝗻𝗴...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐂𝐇𝐀𝐋𝐀 𝐆𝐘𝐀 𝐁𝐇𝐀𝐈𝐌𝐘𝐀🙂")
+                await event.edit("×º°”˜𝗝𝗼𝗶𝗻𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1074,11 +1074,11 @@ async def _(e):
         if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "𝐉𝐀 𝐑𝐇𝐀 𝐁𝐇𝐀𝐈🤕....."
+            text = " «------•}I|[𝗟𝗲𝗮𝘃𝗶𝗻𝗴....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("𝐂𝐇𝐀𝐋𝐀 𝐆𝐘𝐀 𝐁𝐇𝐀𝐈🤕")
+                await event.edit("«------•}I|[𝗟𝗲𝗮𝘃𝗶𝗻𝗴 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆👻")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1416,7 +1416,7 @@ async def _(event):
 @str16.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 @str17.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 @str18.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@str19.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
+@str19.on(events.NewMessage(incoming=𝗻, pattern=r"\.replyraid"))
 @str20.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 @str21.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 @str22.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
@@ -1558,11 +1558,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "𝐏𝐎𝐍𝐆😁"
+        text = "🎀 ×º°”`˜”°º×𝗣𝗢𝗡𝗚×º°”˜`”°º× 🎀"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"𝐒𝐇𝐀𝐔𝐑𝐘𝐀★𝐗★𝐒𝐏𝐀𝐌★𝐁𝐎𝐓★𝐎𝐍★𝐅𝐈𝐑𝐄❤️💋\n`{ms}` 𝗺𝘀\n          𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
+        await event.edit(f"𝐒𝐇𝐀𝐔𝐑𝐘𝐀★𝐗★𝐒𝐏𝐀𝐌\n`{ms}` 𝗺𝘀\n          𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
 
 
 
@@ -1770,11 +1770,11 @@ async def help(e):
 
     
         
-text = """𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓"""
+text = """▁ ▂ ▄ ▅ ▆ ▇𝗦𝗛𝗮𝘂𝗥𝘆𝗔𝗫𝗦𝗽𝗮𝗠▇ ▆ ▅ ▄ ▂ ▁"""
 
 print(text)
 print("")
-print("SMEX! 𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓 STARTED.")
+print("SMEX! ✶⊶⊷⊶⊷❍𝗦𝗛𝗮𝘂𝗥𝘆𝗔𝗦𝗽𝗮𝗠❍⊶⊷⊶⊷✶ STARTED.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         str1.disconnect()
