@@ -1,8 +1,8 @@
 {
-  "name": "SHAURYA-X-SPAM-BOT",
+  "name": "ShAurYaXspAm-bot",
   "description": "A Powerful Telegram Spam Userbot based on telethon.",
   "website": "https://t.me/II_TSF_CO_OWNER_II",
-  "repository": "https://github.com/shauryateam/TEAM-SHAURYA-OP-SHAURYAXSPAM/",
+  "repository": "https://github.com/shauryateam/ShAurYaXspAm-bot/",
   "logo": "https://te.legra.ph/file/a63b006e495a7c5ff9ccc.jpg",
   "keywords": [
     "spambot",
@@ -171,7 +171,7 @@
         "required": false
       },
       "SUDO": {
-        "description": "Fill all Sudo Users shaurya ki language me sudo dal bsdk Id",
+        "description": "Fill all Sudo Users Id",
         "value": "",
         "required": true
       }
