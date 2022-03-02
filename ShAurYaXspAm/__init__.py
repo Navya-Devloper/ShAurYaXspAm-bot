@@ -152,13 +152,13 @@ async def ShauryaX():
     if STRING2:
         session_name = str(STRING2)
         print("String 2 Found")
-        Mig2 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha2 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 2")
-            await Mig2.start()
-            await Mig2(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig2(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig2.get_me()
+            await sha2.start()
+            await sha2(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha2(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha2.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -167,23 +167,23 @@ async def ShauryaX():
     else:
         print("Session 2 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig2 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha2 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig2.start()
+            await sha2.start()
         except Exception as e:
             pass
 
     if STRING3:
         session_name = str(STRING3)
         print("String 3 Found")
-        Mig3 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha3 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 3")
-            await  Mig3.start()
-            await Mig3(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig3(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig3.get_me()
+            await  sha3.start()
+            await sha3(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha3(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha3.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -192,23 +192,23 @@ async def ShauryaX():
     else:
         print("Session 3 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig3 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha3 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig3.start()
+            await sha3.start()
         except Exception as e:
             pass
 
     if STRING4:
         session_name = str(STRING4)
         print("String 4 Found")
-        Mig4 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha4 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 4")
-            await Mig4.start()
-            await Mig4(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig4(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig4.get_me()
+            await sha4.start()
+            await sha4(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha4(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha4.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -217,23 +217,23 @@ async def ShauryaX():
     else:
         print("Session 4 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig4 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha4 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig4.start()
+            await sha4.start()
         except Exception as e:
             pass
 
     if STRING5:
         session_name = str(STRING5)
         print("String 5 Found")
-        Mig5 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha5 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 5")
-            await Mig5.start()
-            await Mig5(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig5(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig5.get_me()
+            await sha5.start()
+            await sha5(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha5(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha5.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -242,23 +242,23 @@ async def ShauryaX():
     else:
         print("Session 5 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig5 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha5 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig5.start()
+            await sha5.start()
         except Exception as e:
             pass
                   
     if STRING6:
         session_name = str(STRING6)
         print("String 6 Found")
-        Mig6 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha6 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 6")
-            await Mig6.start()
-            await Mig6(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig6(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig6.get_me()
+            await sha6.start()
+            await sha6(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha6(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha6.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -267,23 +267,23 @@ async def ShauryaX():
     else:
         print("Session 6 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig6 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha6 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig6.start()
+            await sha6.start()
         except Exception as e:
             pass
 
     if STRING7:
         session_name = str(STRING7)
         print("String 7 Found")
-        Mig7 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha7 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 7")
-            await Mig7.start()
-            await Mig7(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig7(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig7.get_me()
+            await sha7.start()
+            await sha7(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha7(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha7.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -292,10 +292,10 @@ async def ShauryaX():
     else:
         print("Session 7 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig7 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha7 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig7.start()
+            await sha7.start()
         except Exception as e:
             pass    
         
@@ -303,13 +303,13 @@ async def ShauryaX():
     if STRING8:
         session_name = str(STRING8)
         print("String 8 Found")
-        Mig8 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha8 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 8")
-            await Mig8.start()
-            await Mig8(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig8(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig8.get_me()
+            await sha8.start()
+            await sha8(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha8(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha8.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -318,23 +318,23 @@ async def ShauryaX():
     else:
         print("Session 8 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig8 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha8 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig8.start()
+            await sha8.start()
         except Exception as e:
             pass   
         
     if STRING9:
         session_name = str(STRING9)
         print("String 9 Found")
-        Mig9 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha9 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 9")
-            await Mig9.start()
-            await Mig9(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig9(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig9.get_me()
+            await sha9.start()
+            await sha9(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha9(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha9.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -343,10 +343,10 @@ async def ShauryaX():
     else:
         print("Session 9 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig9 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha9 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig9.start()
+            await sha9.start()
         except Exception as e:
             pass   
     
@@ -354,13 +354,13 @@ async def ShauryaX():
     if STRING10:
         session_name = str(STRING10)
         print("String 10 Found")
-        Mig10 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha10 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 10")
-            await Mig10.start()
-            await Mig10(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig10(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig10.get_me()
+            await sha10.start()
+            await sha10(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha10(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha10.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -369,10 +369,10 @@ async def ShauryaX():
     else:
         print("Session 10 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig10 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha10 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig10.start()
+            await sha10.start()
         except Exception as e:
             pass 
         
@@ -380,13 +380,13 @@ async def ShauryaX():
     if STRING11:
         session_name = str(STRING11)
         print("String 11 Found")
-        Mig11 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha10 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 11")
-            await Mig11.start()
-            await Mig11(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig11(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig11.get_me()
+            await sha11.start()
+            await sha11(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha11(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha11.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -395,24 +395,24 @@ async def ShauryaX():
     else:
         print("Session 11 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig11 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha11 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig11.start()
+            await sha11.start()
         except Exception as e:
-            pass
+            pass 
         
     
     if STRING12:
         session_name = str(STRING12)
         print("String 12 Found")
-        Mig12 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha12 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 12")
-            await Mig12.start()
-            await Mig12(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig12(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig12.get_me()
+            await sha12.start()
+            await sha12(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha12(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha12.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -421,24 +421,24 @@ async def ShauryaX():
     else:
         print("Session 12 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig12 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha12 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig12.start()
+            await sha12.start()
         except Exception as e:
-            pass   
-    
-  
+            pass 
+
+
     if STRING13:
         session_name = str(STRING13)
-        print("String 13  Found")
-        Mig13 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        print("String 13 Found")
+        sha13 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 13")
-            await Mig13.start()
-            await Mig13(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            await Mig13(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            botme = await Mig13.get_me()
+            await sha13.start()
+            await sha13(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha13(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha13.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -447,10 +447,10 @@ async def ShauryaX():
     else:
         print("Session 13 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig13 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha13 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig13.start()
+            await sha13.start()
         except Exception as e:
             pass 
         
@@ -458,13 +458,13 @@ async def ShauryaX():
     if STRING14:
         session_name = str(STRING14)
         print("String 14 Found")
-        Mig14 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha10 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 14")
-            await Mig14.start()
-            await Mig14(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig14(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig14.get_me()
+            await sha14.start()
+            await sha14(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha14(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha14.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -473,24 +473,23 @@ async def ShauryaX():
     else:
         print("Session 14 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig14 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha14 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig14.start()
+            await sha14.start()
         except Exception as e:
-            pass
-        
+            pass 
     
     if STRING15:
         session_name = str(STRING15)
         print("String 15 Found")
-        Mig15 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha15 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 15")
-            await Mig15.start()
-            await Mig15(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig15(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
-            botme = await Mig15.get_me()
+            await sha15.start()
+            await sha15(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha15(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha15.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -499,24 +498,24 @@ async def ShauryaX():
     else:
         print("Session 15 not Found")
         pass
-        session_name = "mightyxspam"
-        Mig15 = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha15 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig15.start()
+            await sha15.start()
         except Exception as e:
-            pass
+            pass 
 
 
     if STRING16:
-        session_name = str(STRING16)
+      session_name = str(STRING16)
         print("String 16 Found")
-        Mig16 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha16 = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 16")
-            await Mig16.start()
-            botme = await Mig16.get_me()
-            await Mig16(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig16(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
+            await sha16.start()
+            await sha16(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha16(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
+            botme = await sha16.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -524,12 +523,13 @@ async def ShauryaX():
             pass
     else:
         print("Session 16 not Found")
-        session_name = "mightyxspam"
-        Mig16 = TelegramClient(session_name, API_ID, API_HASH)
+        pass
+        session_name = "ShAurYaXspAm"
+        sha16 = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig16.start()
+            await sha16.start()
         except Exception as e:
-            pass
+            pass   
    
     if STRING17:
         session_name = str(STRING17)
