@@ -2,7 +2,7 @@
   "name": "ShAurYaXspAm-bot",
   "description": "A Powerful Telegram Spam Userbot based on telethon.",
   "website": "https://t.me/II_TSF_CO_OWNER_II",
-  "repository": "https://github.com/shauryateam/TEAM-SHAURYA-OP-SHAURYAXSPAM/",
+  "repository": "https://github.com/shauryateam/ShAurYaXspAm-bot/",
   "logo": "",
   "keywords": [
     "spambot",
@@ -67,7 +67,7 @@
       },
       "API_HASH": {
         "description": "Api Hash get it from telegram.org",
-        "value": "7ff7db9b8df7a4acdb20920d84bb1a84",
+        "value": "",
         "required": true
       },
       "STRING11": {
