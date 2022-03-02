@@ -3,7 +3,7 @@
   "description": "A Powerful Telegram Spam Userbot based on telethon.",
   "website": "https://t.me/II_TSF_CO_OWNER_II",
   "repository": "https://github.com/shauryateam/ShAurYaXspAm-bot/",
-  "logo": "",
+  "logo": "https://te.legra.ph/file/a63b006e495a7c5ff9ccc.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -171,7 +171,7 @@
         "required": false
       },
       "SUDO": {
-        "description": "Fill all Sudo Users Id shaurya ki language me sudo dal bsdk",
+        "description": "Fill all Sudo User id",
         "value": "1673703180",
         "required": true
       }
