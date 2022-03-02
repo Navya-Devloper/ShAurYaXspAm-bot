@@ -21,7 +21,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 #version
 
-mightyversion = "v2.0.1"
+Shauryaversion = "v2.0.1"
 
 #values
 API_ID = config("API_ID", default=None, cast=int)
@@ -82,47 +82,47 @@ DEV.append(OWNER_ID)
 SUDO_USERS.append(OWNER_ID)
 
 # Sessions
-async def MightyX():
-    global Mig
-    global Mig2
-    global Mig3
-    global Mig5
-    global Mig4
-    global Mig6
-    global Mig7
-    global Mig8
-    global Mig9
-    global Mig10
-    global Mig11
-    global Mig12
-    global Mig13
-    global Mig14
-    global Mig15
-    global Mig16
-    global Mig17
-    global Mig18
-    global Mig19
-    global Mig20
-    global Mig21
-    global Mig22
-    global Mig23
-    global Mig25
-    global Mig24
-    global Mig26
-    global Mig27
-    global Mig28
-    global Mig29
-    global Mig30
-    global Mig31
-    global Mig32
-    global Mig33
-    global Mig34
-    global Mig35
-    global Mig36
-    global Mig37
-    global Mig38
-    global Mig39
-    global Mig40
+async def ShauryaX():
+    global sha
+    global sha2
+    global sha3
+    global sha5
+    global sha4
+    global sha6
+    global sha7
+    global sha8
+    global sha9
+    global sha10
+    global sha11
+    global sha12
+    global sha13
+    global sha14
+    global sha15
+    global sha16
+    global sha17
+    global sha18
+    global sha19
+    global sha20
+    global sha21
+    global sha22
+    global sha23
+    global sha25
+    global sha24
+    global sha26
+    global sha27
+    global sha28
+    global sha29
+    global sha30
+    global sha31
+    global sha32
+    global sha33
+    global sha34
+    global sha35
+    global sha36
+    global sha37
+    global sha38
+    global sha39
+    global sha40
     
     if STRING:
         session_name = str(STRING)
