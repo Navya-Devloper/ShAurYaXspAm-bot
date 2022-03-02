@@ -6,6 +6,10 @@ TEAM_SHAURYA_SPAM_BOT
 <p align="center">
   <img src="https://te.legra.ph/file/a63b006e495a7c5ff9ccc.jpg">
 </p>
+-------------------------------------------------
+<h1 align="center">
+  <b>⚠️ SHAURYA X ID SPAM ⚠️</b>
+</h1>
 
 -------------------------------------------------
 
