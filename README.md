@@ -9,6 +9,10 @@ TEAM_SHAURYA_SPAM_BOT
 <h1 align="center">
   <b>⚠️ SHAURYA X ID SPAM ⚠️</b>
 </h1>
+----
+ 
+- ➥ ⚡ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ⚡
+- ➥ Deploy Upto 30 UserBots in One Time🔥
 
 -------------------------------------------------
 
