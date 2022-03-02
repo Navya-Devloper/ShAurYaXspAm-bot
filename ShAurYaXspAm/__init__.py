@@ -127,25 +127,25 @@ async def ShauryaX():
     if STRING:
         session_name = str(STRING)
         print("String 1 Found")
-        Mig = TelegramClient(StringSession(session_name), API_ID, API_HASH)
+        sha = TelegramClient(StringSession(session_name), API_ID, API_HASH)
         try:
             print("Booting Up The Client 1")
-            await Mig.start()
-            botme = await Mig.get_me()
-            await Mig(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Mig(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
+            await sha.start()
+            botme = await sha.get_me()
+            await sha(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await sha(functions.channels.JoinChannelRequest(channel="@team_shaurya_group"))
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
-            Mig = "STRING"
+            sha = "STRING"
             print(e)
             pass
     else:
         print("Session 1 not Found")
-        session_name = "mightyxspam"
-        Mig = TelegramClient(session_name, API_ID, API_HASH)
+        session_name = "ShAurYaXspAm"
+        sha = TelegramClient(session_name, API_ID, API_HASH)
         try:
-            await Mig.start()
+            await sha.start()
         except Exception as e:
             pass
    
