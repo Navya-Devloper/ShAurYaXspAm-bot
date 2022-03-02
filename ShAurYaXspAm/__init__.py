@@ -1,5 +1,5 @@
-# MightyXSpam - Spam Userbots
-# Copyright © 2021 @RiZoeLX
+#ShAurYaXspAm - Spam Userbots
+#Copyright © 2021 @team_shaurya
 
 import os
 import sys
