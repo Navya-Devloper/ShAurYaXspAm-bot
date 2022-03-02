@@ -1,1 +1,1 @@
-worker: python3 SHAURYA.py
+worker: python3 ShAurYaXspAm-bot.py
