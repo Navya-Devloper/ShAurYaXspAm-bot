@@ -655,8 +655,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 22")
             await str22.start()
-            await str22(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str22(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str22(functions.channels.JoinChannelRequest(channel="@team_shaurya"))
+            await str22(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str22.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -680,8 +680,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 23")
             await  str23.start()
-            await str23(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str23(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str23(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str23(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str23.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -705,8 +705,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 24")
             await str24.start()
-            await str24(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str24(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str24(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str24(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str24.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -730,8 +730,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 25")
             await str25.start()
-            await str25(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str25(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str25(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str25(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str25.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -755,8 +755,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 26")
             await str26.start()
-            await str26(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str26(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str26(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str26(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str26.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -780,8 +780,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 27")
             await str27.start()
-            await str27(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str27(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str27(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str27(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str27.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -806,8 +806,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 28")
             await str28.start()
-            await str28(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str28(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str28(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str28(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str28.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -831,8 +831,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 29")
             await str29.start()
-            await str29(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str29(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str29(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str29(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str29.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -858,8 +858,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 30")
             await str30.start()
-            await str30(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
-            await str30(functions.channels.JoinChannelRequest(channel="@P4G4L_XD"))
+            await str30(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
+            await str30(functions.channels.JoinChannelRequest(channel="@TEAM_SHAURYA"))
             botme = await str30.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1558,11 +1558,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "𝐏𝐎𝐍𝐆😁"
+        text = "×º°”˜`”°º× 🎀𝗣𝗢𝗡𝗚🎀 ×º°”`˜”°º×"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"𝐒𝐇𝐀𝐔𝐑𝐘𝐀★𝐗★𝐒𝐏𝐀𝐌★𝐁𝐎𝐓★𝐎𝐍★𝐅𝐈𝐑𝐄❤️💋\n`{ms}` 𝗺𝘀\n          𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
+        await event.edit(f"𝗝𝗜𝗡𝗗𝗔 𝗛𝗨 𝗕𝗦𝗗𝗞👻\n`{ms}` 𝗺𝘀\n          𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
 
 
 
