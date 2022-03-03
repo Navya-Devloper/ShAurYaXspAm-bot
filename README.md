@@ -28,7 +28,7 @@ TEAM_SHAURYA_SPAM_BOT
 <a href="https://t.me/team_shaurya_group"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮_𝐛𝐲_𝐒𝐡𝐚𝐮𝐫𝐲𝐚-𝐱-𝐬𝐩𝐚𝐦-𝐛𝐨𝐭💋
+## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝗦𝗵𝗮𝘂𝗿𝘆𝗮 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shauryateam/ShAurYaXspAm-bot)
 ------------------------------------------------
 
