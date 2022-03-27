@@ -1558,11 +1558,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "×º°”˜`”°º× 🎀𝗣𝗢𝗡𝗚🎀 ×º°”`˜”°º×"
+        text = "☠︎︎𝗣𝗢𝗡𝗚☠︎︎"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"𝗝𝗜𝗡𝗗𝗔 𝗛𝗨 𝗕𝗦𝗗𝗞👻\n`{ms}` 𝗺𝘀\n          𝐒𝐇𝐀𝐔𝐑𝐘𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
+        await event.edit(f"𝗠𝘀.𝗡𝗔𝗡𝗖𝗬❣︎\n`{ms}` 𝗺𝘀\n          𝐂𝐎𝐁𝐑𝐀-𝐗-𝐒𝐏𝐀𝐌-𝐁𝐎𝐓")
 
 
 
