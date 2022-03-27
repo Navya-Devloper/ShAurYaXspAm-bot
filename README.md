@@ -29,6 +29,6 @@ TEAM_SHAURYA_SPAM_BOT
 
 -------------------------------------------------
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝗦𝗵𝗮𝘂𝗿𝘆𝗮 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shauryateam/ShAurYaXspAm-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Navya-Devloper/ShAurYaXspAm-bot)
 ------------------------------------------------
 
